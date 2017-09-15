@@ -1,0 +1,1 @@
+Contains es6_consumer rule for ABC demo build
