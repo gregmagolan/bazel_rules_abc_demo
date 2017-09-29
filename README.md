@@ -1,1 +1,1 @@
-Contains es6_consumer rule for ABC demo build
+Contains es6_consumer & es5_consumer rule for ABC demo build
